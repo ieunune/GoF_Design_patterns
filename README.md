@@ -1,6 +1,6 @@
 ![thumbnail](https://user-images.githubusercontent.com/50124623/190170763-a1d0f34b-7f1a-4295-9718-66d86805b745.png)
 
-# GoF_Design_patterns
+# 코딩으로 학습하는 GoF의 디자인 패턴
 
 ### 용어 정리
 - 리플렉션
