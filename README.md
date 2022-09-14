@@ -1,4 +1,4 @@
-![thumbnail](https://user-images.githubusercontent.com/50124623/190166291-13f29b0f-35d5-4862-8518-5ca5c82c8f7d.png)
+![thumbnail](https://user-images.githubusercontent.com/50124623/190170763-a1d0f34b-7f1a-4295-9718-66d86805b745.png)
 
 # GoF_Design_patterns
 
