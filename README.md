@@ -7,13 +7,13 @@
   + 구체적인 클래스 타입을 알지 못해도, 그 클래스의 메소드, 타입, 변수들을 접근할 수 있도록 해주는 자바 API
   
 ### 디자인 패턴 용도별 구분
-- 생성
+- 생성(Creational) 패턴
   + 싱글톤(Singleton)
   + 추상 팩토리(Abstract Factory)
   + 팩토리 메소드(Factory Method)
   + 프로토 타입(Prototype)
   + 빌더(Builder)
-- 행위
+- 행위(Behavioral) 패턴
   + 책임 연쇄(Chain of Responsibility)
   + 커맨드(Command)
   + 인터프리터(Interpreter)
@@ -25,7 +25,7 @@
   + 스트렛지(Strategy)
   + 템플릿 메소드(Template Method)
   + 비지터(Visitor)
-- 구조
+- 구조(Structural) 패턴
   + 어댑터(Adapter)
   + 브릿지(Bridge)
   + 컴퍼지트(Composite)
